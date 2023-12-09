@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Graph SQL | React Native **Graph SQL | React Native**
 
-- 👨‍💻 All of my projects are available at https://landonmossdev.com/ [https://landonmossdev.com/](https://landonmossdev.com/)
+- 👨‍💻 All of my projects are available at https://landonmossdev.com/(https://landonmossdev.com/)
 
 - 💬 Ask me about FrontEnd and BackEnd **FrontEnd and BackEnd**
 
