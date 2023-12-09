@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/landonmoss60971" target="blank"><img src="https://img.shields.io/twitter/follow/landonmoss60971?logo=twitter&style=for-the-badge" alt="landonmoss60971" /></a> </p>
 
-- 🌱 I’m currently learning Graph SQL | React Native **Graph SQL | React Native**
+- 🌱 I’m currently learning Graph SQL | React Native
 
 - 👨‍💻 All of my projects are available at https://landonmossdev.com/
 
