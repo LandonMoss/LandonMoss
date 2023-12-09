@@ -12,7 +12,7 @@
 
 - 💬 Ask me about FrontEnd and BackEnd **FrontEnd and BackEnd**
 
-- 📫landonmoss0729@gmail.com **landonmoss0729@gmail.com**
+- 📫landonmoss0729@gmail.com 
 
 - 📄 Know about my experiences https://landonmossdev.com/up_/up_/up_/Downloads/Landon-Moss-FlowCV-Resume-20231127.pdf [https://landonmossdev.com/up_/up_/up_/Downloads/Landon-Moss-FlowCV-Resume-20231127.pdf](https://landonmossdev.com/up_/up_/up_/Downloads/Landon-Moss-FlowCV-Resume-20231127.pdf)
 
