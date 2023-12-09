@@ -14,8 +14,7 @@
 
 - 📫landonmoss0729@gmail.com 
 
-- 📄 Know about my experiences https://landonmossdev.com/up_/up_/up_/Downloads/Landon-Moss-FlowCV-Resume-20231127.pdf [https://landonmossdev.com/up_/up_/up_/Downloads/Landon-Moss-FlowCV-Resume-20231127.pdf](https://landonmossdev.com/up_/up_/up_/Downloads/Landon-Moss-FlowCV-Resume-20231127.pdf)
-
+- 📄 Know about my experiences https://landonmossdev.com/up_/up_/up_/Downloads/Landon-Moss-FlowCV-Resume-20231127.pdf 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/landonmoss60971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="landonmoss60971" height="30" width="40" /></a>
