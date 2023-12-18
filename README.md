@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at https://landonmossdev.com/
 
-- 💬 Ask me about FrontEnd and BackEnd **FrontEnd and BackEnd**
+- 💬 Ask me about FrontEnd and BackEnd 
 
 - 📫landonmoss0729@gmail.com 
 
