@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/landonmoss60971" target="blank"><img src="https://img.shields.io/twitter/follow/landonmoss60971?logo=twitter&style=for-the-badge" alt="landonmoss60971" /></a> </p>
 
+![238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d](https://github.com/LandonMoss/LandonMoss/assets/149494493/ac0e573a-e797-469f-a0a9-a940585985d5)
+
+
 - 🌱 I’m currently learning React Native | Graph QL | Dart
 
 - 👨‍💻 All of my projects are available at https://landonmossdev.com/
@@ -14,6 +17,12 @@
 - 📫landonmoss0729@gmail.com 
 
 - 📄 Know about my experiences (https://landonmossdev.com/up_/up_/up_/Downloads/Landon-Moss-FlowCV-Resume-20231127.pdf)
+
+- 
+![github](https://github.com/LandonMoss/LandonMoss/assets/149494493/bd0471ff-530c-49a0-b042-4698be64b60e)
+
+![vs code gif](https://github.com/LandonMoss/LandonMoss/assets/149494493/3b565680-fe3b-472c-b44a-5e61ca610317)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
