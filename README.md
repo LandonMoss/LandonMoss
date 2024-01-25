@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Landon Moss</h1>
 <h3 align="center">A passionate fullstack developer from Florida</h3>
-<img align="right" alt="Coding" width="400" 
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=landonmoss&label=Profile%20views&color=0e75b6&style=flat" alt="landonmoss" /> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=landonmoss&label=Profile%20views&color=0e75b6&style=flat" alt="landonmoss" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=landonmoss" alt="landonmoss" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/landonmoss60971" target="blank"><img src="https://img.shields.io/twitter/follow/landonmoss60971?logo=twitter&style=for-the-badge" alt="landonmoss60971" /></a> </p>
 
-- 🌱 I’m currently learning Graph QL | React Native
+- 🌱 I’m currently learning React Native | Graph QL | Dart
 
 - 👨‍💻 All of my projects are available at https://landonmossdev.com/
 
-- 💬 Ask me about FrontEnd and BackEnd 
-
 - 📫landonmoss0729@gmail.com 
 
-- 📄 Know about my experiences https://landonmossdev.com/up_/up_/up_/Downloads/Landon-Moss-FlowCV-Resume-20231127.pdf 
+- 📄 Know about my experiences (https://landonmossdev.com/up_/up_/up_/Downloads/Landon-Moss-FlowCV-Resume-20231127.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/landonmoss60971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="landonmoss60971" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/landon moss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="landon moss" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23040391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23040391" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/JBSGtmjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JBSGtmjj" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/WhUvdUwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WhUvdUwx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
