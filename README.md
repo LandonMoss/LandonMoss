@@ -8,3 +8,5 @@
 
 
 <hr>
+
+![Snake animation(https://github.com/LandonMoss/LandonMoss/blob/output/github-contribution-grid-snake.svg)
